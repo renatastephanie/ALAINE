@@ -1,0 +1,17 @@
+.nav-menu{
+    border: 1px  solid red;
+}
+
+.itens-menu{
+    background-color:  #E7BEEE;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    padding: 14px;
+    margin: auto;
+    font-family: "Comfortaa", sans-serif;
+}
+
+body{
+    background-color: antiquewhite;
+}
